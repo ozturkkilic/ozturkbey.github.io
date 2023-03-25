@@ -9,36 +9,36 @@
     {
         "image": "https://cdn.discordapp.com/attachments/1085883980135534653/1088990702018510889/Screenshot_2023-03-24_at_6.00.08_PM.png",
         "logo": "https://cdn.discordapp.com/avatars/1086673130577203240/416a786918c590db9ccb0d238c034d5c.webp?size=1024",
-        "title": "Öztürk",
+        "title": "ozturk.rip",
         "text": "My personal website where I introduce myself and which includes my projects",
         "link": "https://ozturk.rip"
     },
     {
         "image": "",
         "logo": "",
-        "title": "AwardBot",
-        "text": "Open Source. The most advanced Discord giveaway bot. Giveaway requirements, boost system and more!",
-        "link": "https://github.com/helloaward"
+        "title": "",
+        "text": "",
+        "link": ""
     },
     {
-        "image": "https://i.ibb.co/fFqMVXn/linkcordbanner.png",
-        "logo": "https://linkcord.js.org/logo.png",
-        "title": "Linkcord",
-        "text": "Discord Widgets, APIs and more! Instantly show what you're listening to on Spotify!",
-        "link": "https://linkcord.js.org"
+        "image": "",
+        "logo": "",
+        "title": "",
+        "text": "",
+        "link": ""
     },
     {
-        "image": "https://cdn.discordapp.com/attachments/915331943875358731/962050065470459974/unknown.png",
-        "logo": "https://avatars.githubusercontent.com/u/103275381?s=400&u=c3a74a230d0bfa6d30ebee09ffbb76ef4291a42e&v=4",
-        "title": "Templatet",
-        "text": "Templatet is an open source project with templates that you can use.",
-        "link": "https://github.com/templatet/"
+        "image": "",
+        "logo": "",
+        "title": "",
+        "text": "",
+        "link": ""
     },
     {
-        "image": "https://i.ibb.co/hZXc0p0/seritybanner.png",
-        "logo": "https://cdn.discordapp.com/icons/701153938870894673/a567eb70003eb1c502894ac4408d5547.png?size=4096",
+        "image": "",
+        "logo": "",
         "title": "Serity",
-        "text": "Create your own unique website with Serity! Licensed and easy-to-install products!",
-        "link": "https://serity.me"
+        "text": "",
+        "link": ""
     }
 ]
